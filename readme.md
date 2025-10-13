@@ -1,17 +1,5 @@
-# A minimal template for data analysis with python 
+# python-series02 : Sinusoids, from math to code 
 
-This is a minimal template for data analysis with python, intended to researchers in human movement sciences that are new to python.   
-Cloning this template for each new data analysis problem should facilitate data analyses with python and minimize potential errors.   
+this repository contains code examples and explanations for generating and vsualizing sinusoidal signals using Python. It covers the matematical foundations of sinusoids, their properties, and how to implement them in Python using libraries such as NumPy and Matplotlib. 
 
-## Usage
-1. Download as a zip file (green button `< > Code` on the top right of the page)
-1. Expand the archive on your computer (e.g., in your `Download` folder). 
-1. Rename the extracted folder with the name of your new project (e.g., `ECG_analysis`)
-1. Move the new `ECG_analysis` folder where it should be located (e.g., in your `Documents/CodeProjects/` directory)
-1. In VSCode :
-    1. open the new project in a new window. 
-    1. open `main.ipynb` and click `Run all`
-
-## Requirements
-- [A minimal Python environment for reproducible research in human movement sciences](https://github.com/DenisMot/Python-minimal-install) is my preferred solution.
-- Any IDE supporting python and jupyter notebooks is an alternative solution. 
+The **main point** is to improve a simple piece of code that generates a sinusoidal signal using branches in Git to process of incremental development and version control.
